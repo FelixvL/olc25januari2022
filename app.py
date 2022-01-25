@@ -2,9 +2,11 @@
 # je runt hem met ::::>>   flask run
 
 from flask import Flask
+from lossefuncties import *
 
 app = Flask(__name__)
 
 @app.route("/")
-def index():    
+def index():
+    print( eenmethodevanmij() )    
     return "de flask app commit twee"
