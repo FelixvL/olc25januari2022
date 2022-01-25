@@ -1,3 +1,20 @@
+#  Wat we de eerste les gezien hebben zijn:
+#  leestekens en hun namen 
+#  tabs - inspringen
+#  variabele
+#  	(strongly typed vs weakly typed)
+#  	het type
+#  String met de dubbele ""
+#  int een wiskundig getal
+#  omzetten van string naar int  : int(destring)
+#  een functie  ||   met de ronde haakjes   testfunctie()
+#  argument - parameter
+#  functie(parameter)
+#  returntype
+#  	return "dinsdag"
+#  ONELINER: Een functie met een ander returntype dan void,
+#  		DAARVAN mag je de aanroep vervangen door datgene dat hij returned
+
 
 print("hoi")
 
